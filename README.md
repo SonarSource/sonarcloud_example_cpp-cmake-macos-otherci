@@ -13,4 +13,4 @@ You can take a look at the script
 of this project to see it in practice.
 
 ## Links
-- [Documentation of the C/C++/Objective-C plugin and its with Build Wrapper](http://docs.sonarqube.org/x/pwAv)
+- [Documentation of the C/C++/Objective-C plugin and its with Build Wrapper](https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/languages/c-family/)
